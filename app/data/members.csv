@@ -1,0 +1,13 @@
+partner_member_id,first_name,last_name,date_of_birth,email,policy_start,policy_end
+P-1001,Amelia,Hart,1985-04-12,amelia.hart@example.com,2026-01-01,2026-12-31
+P-1002,Omar,Siddiqui,1990-11-03,Omar.Siddiqui@Example.com,2026-02-01,
+P-1003,Grace,"Grant, Jr.",1978-07-22,grace.grant@example.com,2026-01-01,2027-01-01
+P-1004,Tom,Baker,1992-02-30,tom.baker@example.com,2026-01-01,2026-12-31
+P-1005,Priya,Nair,1988-05-19,not-an-email,2026-01-01,2026-12-31
+P-1006,Leo,Martin,03/04/1985,leo.martin@example.com,2026-01-01,2026-12-31
+P-1007,Sara,Ali,1995-09-09,sara.ali@example.com,2026-06-01,2026-01-01
+,Nina,Stone,1980-01-01,nina.stone@example.com,2026-01-01,2026-12-31
+P-1008,Ben,Cole,2091-01-01,ben.cole@example.com,2026-01-01,2026-12-31
+P-1009,Hannah,Reid,1983-03-15,hannah.reid@example.com,2026-01-01,2026-12-31
+P-1009,Hannah,Reid,1983-03-15,h.reid@example.com,2026-01-01,2026-12-31
+P-1010,Ian,Ford,1970-10-10,ian.ford@example.com

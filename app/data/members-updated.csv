@@ -1,0 +1,5 @@
+partner_member_id,first_name,last_name,date_of_birth,email,policy_start,policy_end
+P-1001,Amelia,Hart,1985-04-12,amelia.hart@newmail.example.com,2026-01-01,2026-12-31
+P-1002,Omar,Siddiqui,1990-11-03,omar.siddiqui@example.com,2026-02-01,
+P-1003,Grace,"Grant, Jr.",1978-07-22,grace.grant@example.com,2026-01-01,2027-01-01
+P-1011,Zara,Malik,1999-12-01,zara.malik@example.com,2026-03-01,2026-12-31
